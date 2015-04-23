@@ -1,0 +1,6 @@
+venv
+*.pyc
+.idea
+output
+*.log
+deploy
